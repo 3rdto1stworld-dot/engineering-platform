@@ -1,0 +1,26 @@
+{
+  "name": "engineering-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3rdto1stworld-dot/engineering-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3rdto1stworld-dot/engineering-platform/issues"
+  },
+  "homepage": "https://github.com/3rdto1stworld-dot/engineering-platform#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "nunjucks": "^3.2.4"
+  }
+}
